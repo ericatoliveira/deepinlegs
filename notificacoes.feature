@@ -15,11 +15,11 @@ Cenário: Validar RN 1 - Visão geral
     Então deve ser exibido um botão para voltar
     E deve ser exibido um atalho para acessar o perfil do usuário
 
-@altaprioridade
+@mediaprioridade
 Cenário: Validar RN 2- Notificações
     Então deve ser exibida uma lista de notificações
     
-@altaprioridade
+@baixaprioridade
 Cenário: Validar RN 3 - Sinalização de notificações
     Então deve ser exibida a cor azul ao fundo da notificação não lida
     E deve ser exibida a cor branca ao fundo da notificação lida
