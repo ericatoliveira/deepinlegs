@@ -1,5 +1,5 @@
 RN 1 - Tela inicial com informações exclusivas do cliente
-RN 2 - a tela deve ter um ícone de alertas e um ícone para acessar o perfil do usuário
+RN 2 - a tela deve ter um ícone de notificações e um ícone para acessar o perfil do usuário
 RN 3 - a tela deve ter um atalho que mostra a data do próximo agendamento e direciona para a área de agendamentos
 RN 4 - a tela deve ter um atalho que mostra o número de pontos do cliente e direciona para a área de pontos de fidelidade
 RN 5 - a tela deve ter um carrossel com as promoções ativas

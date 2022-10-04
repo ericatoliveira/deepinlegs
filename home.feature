@@ -9,14 +9,13 @@ Contexto: Acessar o aplicativo
     E os dados do usuário autenticados
     Quando a tela inicial é exibida
     
-
 @altaprioridade
 Cenário: Validar RN 1 - Tela inicial
     Então são visualizadas as informações exclusivas do cliente
 
 @altaprioridade
-Cenário: Validar RN 2- Ícone de alertas e perfil de usuário
-    Então deve ser exibido o ícone de alertas
+Cenário: Validar RN 2- Ícone de notificações e perfil de usuário
+    Então deve ser exibido o ícone de notificações
     E deve ser exibido um atalho para acessar o perfil do usuário
 
 @altaprioridade
